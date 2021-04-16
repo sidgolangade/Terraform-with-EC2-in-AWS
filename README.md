@@ -9,7 +9,7 @@ Provisioning EC2 with Terraform
 ### Step-1
 First created a Terraform Host/Node/Machine using AWS Management Console
 
-###Step-2
+### Step-2
 Connected to the AWS EC2 using Amazon Linux 2 AMI
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Amazon%20Linux%202%20AMI.jpg)
 
@@ -18,25 +18,25 @@ Installed Terraform on Amazon Linux 2 AMI
 Terraform [Download Link](https://www.terraform.io/downloads.html)
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Installation.jpg)
 
-## Step-4
+### Step-4
 Created IAM User and used the Access_key & Secret-key of the same user for provisioning EC2 web-instance.
 [main.tf](https://github.com/sidgolangade/Terraform-with-AWS-EC2/blob/main/main.tf)
 
-## Step-5
+### Step-5
 Terraform Init
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Init.jpg)
 
-## Step-6
+### Step-6
 Terraform Plan
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Plan-1.jpg)
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Plan-2.jpg)
 
-## Step-7
+### Step-7
 Terraform Apply
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Apply-1.jpg)
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Apply-2.jpg)
 
-## Step-8
+### Step-8
 Destroyed the infrastructure
 Terraform Destroy
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Destroy-1.jpg)
