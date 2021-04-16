@@ -4,7 +4,7 @@
 
 Provisioning EC2 with Terraform
 
-# NOTE: • The AWS Credentails used are authentic and deleted after the completion of this project for security purposes. 
+### NOTE: • The AWS Credentails used are authentic and DELETED after the completion of this project for security purposes. 
 
 # Amazon Linux 2 AMI
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Amazon%20Linux%202%20AMI.jpg)
