@@ -23,6 +23,6 @@ Provisioning EC2 with Terraform
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Apply-1.jpg)
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Apply-2.jpg)
 
-# • Terraform Destory
+# • Terraform Destroy
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Destroy-1.jpg)
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Destroy-2.jpg)
