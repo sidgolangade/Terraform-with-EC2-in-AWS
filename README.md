@@ -19,7 +19,7 @@ Terraform [Download Link](https://www.terraform.io/downloads.html)
 ![alt text](https://github.com/sidgolangade/Terraform-with-EC2-in-AWS/blob/main/Screenshots%20for%20GitHub/Terraform%20Installation.jpg)
 
 ### Step-4
-Created IAM User and used the Access_key & Secret-key of the same user for provisioning EC2 web-instance.
+Created IAM User and used the Access_key & Secret_key of the same user for provisioning EC2 web-instance.
 [main.tf](https://github.com/sidgolangade/Terraform-with-AWS-EC2/blob/main/main.tf)
 
 ### Step-5
